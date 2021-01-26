@@ -1,4 +1,5 @@
 // Calculating up to 15 decimal places as of the latest update
+// Formula based on Chudnovsky algorithm
 const bigDecimal = require("js-big-decimal")
 
 
